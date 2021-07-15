@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ASimulatorSystem/ASimulatorSystem.iml" filepath="$PROJECT_DIR$/ASimulatorSystem/ASimulatorSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ELectricity Bill genrator.iml" filepath="$PROJECT_DIR$/ELectricity Bill genrator.iml" />
+    </modules>
+  </component>
+</project>
